@@ -1,7 +1,7 @@
 # Personal Portfolio Website in React
 
-Hello everyone ! This is my personal portfolio just for the geeks who wanna connect.
- <img src="..portfolio website/src/assets/img/preview.jpg" width=350 title="hover text">
+Hello everyone ! This is my personal portfolio just for the geeks who wanna connect
+<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://raw.githubusercontent.com/singhhp/portfolio-website/main/src/assets/img/preview.jpg">
 
 Built using:
 
