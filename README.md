@@ -1,7 +1,7 @@
 # Personal Portfolio Website in React
 
 Hello everyone ! This is my personal portfolio just for the geeks who wanna connect.
- <img src="D:\portfolio website\src\assets\img>preview.jpg" width=350 title="hover text">
+ <img src="..portfolio website/src/assets/img/preview.jpg" width=350 title="hover text">
 
 Built using:
 
