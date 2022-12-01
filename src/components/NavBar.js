@@ -4,6 +4,7 @@ import logo from '../assets/img/HPlogo1.png';
 import navIcon1 from '../assets/img/nav-icon1.svg';
 import navIcon2 from '../assets/img/git.svg';
 import navIcon3 from '../assets/img/nav-icon3.svg';
+import navIcon4 from '../assets/img/resume.svg';
 import { HashLink } from 'react-router-hash-link';
 import {
   BrowserRouter as Router
@@ -50,6 +51,7 @@ export const NavBar = () => {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
+                <a href="https://drive.google.com/file/d/1ZSgbz62y2nfegCI4Ntk5UlyJEY3U0ddh/view?usp=share_link"><img src={navIcon4} alt="" /></a>
                 <a href="https://www.linkedin.com/in/hpsingh20"><img src={navIcon1} alt="" /></a>
                 <a href="https://www.github.com/singhhp"><img src={navIcon2} alt="" /></a>
                 <a href="https://www.instagram.com/_hp_singh_21/"><img src={navIcon3} alt="" /></a>
